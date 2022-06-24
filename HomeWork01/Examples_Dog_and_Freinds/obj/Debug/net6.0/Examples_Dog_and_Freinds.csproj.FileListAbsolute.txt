@@ -1,0 +1,15 @@
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\bin\Debug\net6.0\Examples_Dog_and_Freinds.exe
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\bin\Debug\net6.0\Examples_Dog_and_Freinds.deps.json
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\bin\Debug\net6.0\Examples_Dog_and_Freinds.runtimeconfig.json
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\bin\Debug\net6.0\Examples_Dog_and_Freinds.dll
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\bin\Debug\net6.0\Examples_Dog_and_Freinds.pdb
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\Examples_Dog_and_Freinds.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\Examples_Dog_and_Freinds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\Examples_Dog_and_Freinds.AssemblyInfoInputs.cache
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\Examples_Dog_and_Freinds.AssemblyInfo.cs
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\Examples_Dog_and_Freinds.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\Examples_Dog_and_Freinds.dll
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\refint\Examples_Dog_and_Freinds.dll
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\Examples_Dog_and_Freinds.pdb
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\Examples_Dog_and_Freinds.genruntimeconfig.cache
+C:\Users\user\Documents\repo_C#\HomeWork01\Examples_Dog_and_Freinds\obj\Debug\net6.0\ref\Examples_Dog_and_Freinds.dll
