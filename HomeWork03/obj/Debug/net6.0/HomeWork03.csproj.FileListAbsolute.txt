@@ -1,0 +1,15 @@
+C:\Users\user\Documents\repo_C#\HomeWork03\bin\Debug\net6.0\HomeWork03.exe
+C:\Users\user\Documents\repo_C#\HomeWork03\bin\Debug\net6.0\HomeWork03.deps.json
+C:\Users\user\Documents\repo_C#\HomeWork03\bin\Debug\net6.0\HomeWork03.runtimeconfig.json
+C:\Users\user\Documents\repo_C#\HomeWork03\bin\Debug\net6.0\HomeWork03.dll
+C:\Users\user\Documents\repo_C#\HomeWork03\bin\Debug\net6.0\HomeWork03.pdb
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\HomeWork03.csproj.AssemblyReference.cache
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\HomeWork03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\HomeWork03.AssemblyInfoInputs.cache
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\HomeWork03.AssemblyInfo.cs
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\HomeWork03.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\HomeWork03.dll
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\refint\HomeWork03.dll
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\HomeWork03.pdb
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\HomeWork03.genruntimeconfig.cache
+C:\Users\user\Documents\repo_C#\HomeWork03\obj\Debug\net6.0\ref\HomeWork03.dll
